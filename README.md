@@ -11,3 +11,4 @@ Survival Analysis:
 [Survival-Analysis-A-Self-learning-Text-3E.pdf](https://github.com/user-attachments/files/29951805/Survival-Analysis-A-Self-learning-Text-3E.pdf)
 
 Research Methodology:
+https://github.com/aziafrin/Statistics-Book-Collection/blob/main/Ranjit_Kumar-Research_Methodology_A_Step-by-Step_G.pdf
