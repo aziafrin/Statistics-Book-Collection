@@ -16,3 +16,5 @@ https://github.com/aziafrin/Statistics-Book-Collection/blob/main/Ranjit_Kumar-Re
 Cell Epidemiology:
 
 Bioinformatics:
+
+Time Series:
