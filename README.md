@@ -11,10 +11,12 @@ Survival Analysis:
 [Survival-Analysis-A-Self-learning-Text-3E.pdf](https://github.com/user-attachments/files/29951805/Survival-Analysis-A-Self-learning-Text-3E.pdf)
 
 Research Methodology:
-https://github.com/aziafrin/Statistics-Book-Collection/blob/main/Ranjit_Kumar-Research_Methodology_A_Step-by-Step_G.pdf
+Research Methodology by Ranjit Kumar (https://github.com/aziafrin/Statistics-Book-Collection/blob/main/Ranjit_Kumar-Research_Methodology_A_Step-by-Step_G.pdf)
 
 Cell Epidemiology:
+https://github.com/aziafrin/Statistics-Book-Collection/commit/faf1e308849590f22248b5413a6fa67aa5d9da4b
 
 Bioinformatics:
+https://github.com/aziafrin/Statistics-Book-Collection/blob/main/Bioinformatics.pdf
 
 Time Series:
