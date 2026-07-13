@@ -12,3 +12,7 @@ Survival Analysis:
 
 Research Methodology:
 https://github.com/aziafrin/Statistics-Book-Collection/blob/main/Ranjit_Kumar-Research_Methodology_A_Step-by-Step_G.pdf
+
+Cell Epidemiology:
+
+Bioinformatics:
